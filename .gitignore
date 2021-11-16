@@ -7,6 +7,9 @@ __pycache__/
 /Service/wy/src/RGBReconstruct/model.ckpt
 Data/
 Model/
+1.jpg
+2.jpg
+3.jpg
 DAO/dao_test.py
 .idea/
 Service/lst/pointnet2_sem/epoch=15-val_loss=0.53-val_acc=0.862.ckpt
